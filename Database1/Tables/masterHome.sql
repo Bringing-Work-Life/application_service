@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[masterHome]
+(
+	[Id] INT NOT NULL PRIMARY KEY DEFAULT 1,
+	[Label] NVARCHAR(100) NOT NULL,
+	[Type] INT NOT NULL,
+	[Message] NVARCHAR(500) NOT NULL,
+)

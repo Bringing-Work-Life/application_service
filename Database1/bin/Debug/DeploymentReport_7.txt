@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[User] (Check Constraint)
+       unnamed constraint on [dbo].[User] (Check Constraint)
+     Create
+       Check Constraint: unnamed constraint on [dbo].[User] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[User] (Check Constraint)
+       [dbo].[spCreateUser] (Procedure)
+
+** Supporting actions

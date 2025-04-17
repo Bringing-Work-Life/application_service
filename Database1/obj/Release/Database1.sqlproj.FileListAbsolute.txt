@@ -1,0 +1,10 @@
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\bin\Release\Database1.dacpac
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\bin\Release\Database1.dll
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\bin\Release\Database1.pdb
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\Database1.sqlproj.AssemblyReference.cache
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\Database1.dll
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\Database1.pdb
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\Model.xml
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\refactor.xml
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\postdeploy.sql
+V:\.net\microservice_sample\WebApplication_micro_sample\Database1\obj\Release\predeploy.sql
