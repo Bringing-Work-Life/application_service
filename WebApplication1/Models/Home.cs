@@ -6,5 +6,6 @@
         public string Label { get; set; }
         public int Type { get; set; }
         public string Message { get; set; }
+        
     }
 }
